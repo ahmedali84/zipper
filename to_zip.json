@@ -1,0 +1,10 @@
+{
+    "zip": "output.zip", 
+    "ignore": true, 
+    "paths": [
+        ".gitignore", 
+        ".git", 
+        "README.md", 
+        "folder_to_ignore"
+    ]
+}
